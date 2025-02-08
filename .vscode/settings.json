@@ -56,5 +56,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "final0107.sln"
+    "dotnet.defaultSolution": "final0107.sln",
+    "dotnetAcquisitionExtension.enableTelemetry": true,
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "dotnetAcquisitionExtension.existingDotnetPath": []
 }
